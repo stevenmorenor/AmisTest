@@ -1,0 +1,49 @@
+<div class="form-group">
+  <label for="insertName">Name</label>
+  <input
+    type="name"
+    class="form-control"
+    id="insertName"
+    aria-describedby="nameHelp"
+    [(ngModel)]="form.person.name"
+  />
+</div>
+<div class="form-group">
+  <label for="inserLastName">Last Name</label>
+  <input type="lastName" class="form-control" id="insertLastName" [(ngModel)]="form.person.lastName" />
+</div>
+<div class="form-group">
+  <label for="inserBirtDate">Birth Date</label>
+  <input type="birtDate" class="form-control" id="inserBirtDate" [(ngModel)]="form.person.birthDate" />
+</div>
+<div class="form-group">
+  <label for="inserBornPlace">Born Place</label>
+  <input type="bornPlace" class="form-control" id="inserBornPlace" [(ngModel)]="form.person.bornPlace" />
+</div>
+<div class="form-group">
+  <label for="inserAddress">Address</label>
+  <input type="address" class="form-control" id="inserAddress" [(ngModel)]="form.person.address" />
+</div>
+<div class="form-group">
+  <label for="inserGenrer">Genrer</label>
+  <select class="custom-select" id="inserGenrer" [(ngModel)]="form.person.genrer">
+    <option selected>Choose</option>
+    <option value="true">Masculino</option>
+    <option value="false">Femenino</option>
+  </select>
+</div>
+<div class="form-group">
+  <label for="insertQuestion">Question</label>
+  <select class="custom-select" id="insertQuestion" [(ngModel)]="form.questionId">
+    <option *ngFor="let question of questions" [value]="question.questionId">
+      {{ question.description }}
+    </option>
+  </select>
+</div>
+<div class="form-group">
+  <label for="insertAnswer">Answer</label>
+  <input type="text" class="form-control" id="insertAnswer" [(ngModel)]="form.answer"/>
+</div>
+<div class="form-group">
+  <a type="button" class="btn btn-primary" (click)="addNewForm()">Add</a>
+</div>

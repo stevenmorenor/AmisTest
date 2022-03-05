@@ -1,0 +1,5 @@
+<a type="button" class="btn btn-primary mb-5" routerLink="/add">Add Form</a>
+<div class="list-group" *ngFor="let form of forms">
+  <app-home-item [form]="form"></app-home-item>
+</div>
+
