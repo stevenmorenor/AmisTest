@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\bin\Debug\net5.0\Capacitacion.exe
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\bin\Debug\net5.0\Capacitacion.deps.json
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\bin\Debug\net5.0\Capacitacion.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\bin\Debug\net5.0\Capacitacion.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\bin\Debug\net5.0\Capacitacion.dll
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\bin\Debug\net5.0\Capacitacion.pdb
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\obj\Debug\net5.0\Capacitacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\obj\Debug\net5.0\Capacitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\obj\Debug\net5.0\Capacitacion.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\obj\Debug\net5.0\Capacitacion.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\obj\Debug\net5.0\Capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\obj\Debug\net5.0\Capacitacion.dll
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\obj\Debug\net5.0\refint\Capacitacion.dll
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\obj\Debug\net5.0\Capacitacion.pdb
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\obj\Debug\net5.0\Capacitacion.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\Capacitacion\Capacitacion\obj\Debug\net5.0\ref\Capacitacion.dll
